@@ -1,0 +1,22 @@
+#navdif{
+  margin-bottom: 2%;
+}
+#btnsair:hover{
+  background-color: red;
+  color:white; 
+}
+#btnsair{
+  background-color: #eee;
+  color:black; 
+}
+#logo{
+	width: 70px;
+}
+.list-group-item:hover{
+	background-color: #343a40;
+	color: white;
+}
+.list-group-item{
+	color:#737373;
+	text-decoration:none;
+}
