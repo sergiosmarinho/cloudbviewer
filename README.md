@@ -1,0 +1,3 @@
+# cloudbviewer
+
+O CloudB Viewer é uma ferramenta desenvolvida para ser utilizada com bancos de dados replicados em nuvem. O seu propósito é de mostrar graficamente os tempos de respostas dos bancos de dados, bem como quantas réplicas de cada banco estão disponíveis. O usuário pode adicionar um Service Level Agreement (SLA), sendo considerado nesta aplicação somente o tempo de resposta, para acompanhar e ser alertado, caso ocorra uma violação. Como diferencial, a ferramenta utiliza o modelo Autoregressive Integrated Moving Average (ARIMA) para tentar prever os tempos de resposta futuros e alertar ao adminstrador se houver previsão de violação de SLA.
